@@ -57,6 +57,55 @@ Aix-DB Pro 面向企业业务分析场景，将自然语言问数、图表分析
   </tr>
 </table>
 
+### 商业版支持的数据库
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive" />
+  <img src="https://img.shields.io/badge/Apache%20Doris-5C4EE5?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Doris" />
+  <img src="https://img.shields.io/badge/StarRocks-FF6F00?style=for-the-badge&logoColor=white" alt="StarRocks" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%E8%BE%BE%E6%A2%A6%20DM-003366?style=for-the-badge&logoColor=white" alt="达梦 DM" />
+  <img src="https://img.shields.io/badge/%E9%87%91%E4%BB%93%20KingbaseES%20V8-C62828?style=for-the-badge&logoColor=white" alt="金仓 KingbaseES V8" />
+  <img src="https://img.shields.io/badge/GaussDB%20%E4%B8%BB%E5%A4%87%E7%89%88-CF0A2C?style=for-the-badge&logoColor=white" alt="GaussDB 主备版" />
+  <img src="https://img.shields.io/badge/MogDB-2457A7?style=for-the-badge&logoColor=white" alt="MogDB" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GBase%208a-0078D4?style=for-the-badge&logoColor=white" alt="GBase 8a" />
+  <img src="https://img.shields.io/badge/GBase%208c%EF%BC%88MySQL%20%E5%8D%8F%E8%AE%AE%EF%BC%89-0078D4?style=for-the-badge&logoColor=white" alt="GBase 8c（MySQL 协议）" />
+  <img src="https://img.shields.io/badge/%E5%B4%96%E5%B1%B1%20YashanDB-5B45C5?style=for-the-badge&logoColor=white" alt="崖山 YashanDB" />
+  <img src="https://img.shields.io/badge/%E8%99%9A%E8%B0%B7%20Xugu-1768AC?style=for-the-badge&logoColor=white" alt="虚谷 Xugu" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PolarDB%20MySQL-FF6A00?style=for-the-badge&logoColor=white" alt="PolarDB MySQL" />
+  <img src="https://img.shields.io/badge/PolarDB%20PostgreSQL-FF6A00?style=for-the-badge&logoColor=white" alt="PolarDB PostgreSQL" />
+  <img src="https://img.shields.io/badge/OceanBase%EF%BC%88MySQL%20%E6%A8%A1%E5%BC%8F%EF%BC%89-0066FF?style=for-the-badge&logoColor=white" alt="OceanBase（MySQL 模式）" />
+  <img src="https://img.shields.io/badge/TiDB-E5352B?style=for-the-badge&logoColor=white" alt="TiDB" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TDSQL%20MySQL-0052D9?style=for-the-badge&logoColor=white" alt="TDSQL MySQL" />
+  <img src="https://img.shields.io/badge/TDSQL%20PostgreSQL-0052D9?style=for-the-badge&logoColor=white" alt="TDSQL PostgreSQL" />
+  <img src="https://img.shields.io/badge/AnalyticDB%20MySQL-FF6A00?style=for-the-badge&logoColor=white" alt="AnalyticDB MySQL" />
+  <img src="https://img.shields.io/badge/AnalyticDB%20PostgreSQL-FF6A00?style=for-the-badge&logoColor=white" alt="AnalyticDB PostgreSQL" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hologres-FF6A00?style=for-the-badge&logoColor=white" alt="Hologres" />
+  <img src="https://img.shields.io/badge/Greenplum-339933?style=for-the-badge&logoColor=white" alt="Greenplum" />
+  <img src="https://img.shields.io/badge/SelectDB-5C4EE5?style=for-the-badge&logoColor=white" alt="SelectDB" />
+  <img src="https://img.shields.io/badge/GaussDB%20DWS-CF0A2C?style=for-the-badge&logoColor=white" alt="GaussDB DWS" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Databend-615EFF?style=for-the-badge&logoColor=white" alt="Databend" />
+  <img src="https://img.shields.io/badge/MaxCompute-FF6A00?style=for-the-badge&logoColor=white" alt="MaxCompute" />
+</p>
+
 ### 商业版产品预览
 
 <p align="center">

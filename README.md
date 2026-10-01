@@ -32,6 +32,70 @@ Aix-DB 基于 **LangChain/LangGraph** 框架，结合 **MCP Skills** 多智能�
 **产品特点**：📦 开箱即用 · 🔒 安全可控 · 🔌 易于集成 · 🎯 越问越准 · 🧩 Skill 模式 · 🐾 OpenClaw 智能集成
 
 
+## Aix-DB Pro 商业版
+
+**让数据分析从一句提问开始，让业务洞察沉淀为报告与看板。**
+
+Aix-DB Pro 面向企业业务分析场景，将自然语言问数、图表分析、报告中心与数据看板融于一体。从日常数据查询到经营指标追踪，用对话探索数据，让分析成果持续复用。
+
+- **对话式数据分析**：用自然语言提问，结合明细表格与可视化图表查看结果、继续追问。
+- **智能数据看板**：集中呈现核心指标、同比环比与趋势，通过对话补充和调整图表。
+- **报告中心**：集中管理分析报告，支持预览、下载、分享与回溯原始对话。
+- **丰富的可视化表达**：覆盖指标卡、趋势图、分布图、热力图等多种业务分析视角。
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="./docs/docs/images/wechat.jpg" alt="商务合作与 POC 体验：个人微信二维码" width="180" />
+    </td>
+    <td valign="middle">
+      <b>商务合作 &amp; 体验 POC，请添加我的微信</b><br /><br />
+      微信号：<b>weber812</b><br />
+      添加时请备注：<b>商务合作 / POC 体验</b><br /><br />
+      欢迎交流企业数据分析需求、预约商业版演示，探讨业务场景验证与落地方案。
+    </td>
+  </tr>
+</table>
+
+### 商业版产品预览
+
+<p align="center">
+  <a href="./docs/docs/images/commercial/home.png"><img src="./docs/docs/images/commercial/home.png" alt="Aix-DB Pro 首页：普通模式与报告模式，自然语言发起数据分析" width="100%" /></a>
+  <br /><sub>统一分析入口 · 从业务问题开启数据探索</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="./docs/docs/images/commercial/dashboard.png"><img src="./docs/docs/images/commercial/dashboard.png" alt="商业版数据看板：销售额、订单数、客户数与物流指标" width="100%" /></a><br />
+      <b>数据看板</b><br /><sub>核心指标、同比环比与业务趋势一屏掌握</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="./docs/docs/images/commercial/dashboard-chat.png"><img src="./docs/docs/images/commercial/dashboard-chat.png" alt="商业版看板对话：通过自然语言补充和调整图表" width="100%" /></a><br />
+      <b>对话式看板编辑</b><br /><sub>边看边问，用自然语言完善分析视角</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="./docs/docs/images/commercial/report-center.png"><img src="./docs/docs/images/commercial/report-center.png" alt="商业版报告中心：报告时间线、预览、下载与分享" width="100%" /></a><br />
+      <b>报告中心</b><br /><sub>沉淀分析成果，让报告可查阅、可分享</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="./docs/docs/images/commercial/data-analysis.png"><img src="./docs/docs/images/commercial/data-analysis.png" alt="商业版数据问答：出货明细统计与月度金额数量趋势" width="100%" /></a><br />
+      <b>数据问答与图表分析</b><br /><sub>从明细到趋势，在对话中持续深入分析</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>展开查看完整看板长图 · 更多图表与分析场景</b></summary>
+  <p align="center">
+    <a href="./docs/docs/images/commercial/dashboard-gallery.jpg"><img src="./docs/docs/images/commercial/dashboard-gallery.jpg" alt="商业版完整看板：指标卡、折线图、饼图、热力图、散点图、箱线图、漏斗图及明细表" width="100%" /></a>
+  </p>
+</details>
+
+<p align="center"><sub>以上为商业版界面展示，点击图片可查看原图。</sub></p>
+
 ## 演示视频
 
 <table align="center">
